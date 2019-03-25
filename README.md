@@ -1,6 +1,5 @@
-# Python-Basics 
 ![python](/python.jfif)
-
+# Python-Basics 
 ## What is Python?
 Python is an 
 - Interpreted
