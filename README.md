@@ -4,15 +4,8 @@ The purpose of this article is to demonstrate the basic coding of Python Program
 ### What is Python?
 ![python](/python3.png)
 
-### Why to use Python?
+### Why Python?
 We use python because it has a wide range of application in the following Domain:
-- Web and Internet Development
-- Database Access
-- Desktop GUIs
-- Scientific & Numeric
-- Education
-- Network Programming
-- Software & Game Development
 
 ![python](images/usesofpython.png)
 
