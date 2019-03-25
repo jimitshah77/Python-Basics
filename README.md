@@ -7,4 +7,6 @@ The purpose of this article is to demonstrate the basic coding of Python Program
 ### Why Python?
 ![python](images/usesofpython.png)
 
+## Table of Contents
+1)print()
 
