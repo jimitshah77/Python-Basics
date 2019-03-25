@@ -4,8 +4,6 @@
 ![python](/python3.png)
 
 ## Why to use Python?
-![python](/python1.png)
-
 We use python because it has a wide range of application in the following Domain:
 - Web and Internet Development
 - Database Access
@@ -14,3 +12,5 @@ We use python because it has a wide range of application in the following Domain
 - Education
 - Network Programming
 - Software & Game Development
+
+![python](images/usesofpython.png)
