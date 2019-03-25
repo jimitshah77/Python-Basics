@@ -1,4 +1,4 @@
-![python](/python2.jfif)
+![python](/images/python11.jpg)
 # Python-Basics 
 ## What is Python?
 ![python](/python3.png)
