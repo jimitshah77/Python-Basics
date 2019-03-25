@@ -1,4 +1,4 @@
-![python](/images/python11.jpg)
+![python](/images/pythonprogramming.png)
 # Python Coding Basics
 The purpose of this article is to demonstrate the basic coding of Python Programming Language.
 ### What is Python?
