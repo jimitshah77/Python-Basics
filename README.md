@@ -1,7 +1,8 @@
 ![python](/python2.jfif)
 # Python-Basics 
 ## What is Python?
-![python](/python2.jfif)
+![python](/python3.png)
+
 Python is an 
 - Interpreted
 - Object-oriented
