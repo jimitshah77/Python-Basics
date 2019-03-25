@@ -3,9 +3,7 @@
 Python is an 
 - Interpreted
 - Object-oriented
-- High-level
-
-programming language  
+- High-level programming language  
 ## Why to use Python?
 We use python because it has a wide range of application in the following Domain:
 - Web and Internet Development
