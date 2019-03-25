@@ -1,4 +1,4 @@
-![python](/python.jfif)
+![python](/python2.jfif)
 # Python-Basics 
 ## What is Python?
 Python is an 
