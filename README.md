@@ -13,9 +13,9 @@ print("Basic Coding: Python Programming Language")
 ## Table of Contents
 #### [What is Python?](https://github.com/jimitshah77/Python-Basics/blob/master/README.md#what-is-python-1)
 #### [Why Python](https://github.com/jimitshah77/Python-Basics/blob/master/README.md#why-python-1)
-### Basic Codes
-#### 1)print()
-#### 2)Assignment Operator
+### [Basic Codes](https://github.com/jimitshah77/Python-Basics/blob/master/README.md#basic-codes-1)
+#### [1)print()]()
+#### [2)Assignment Operator]()
 
 ---
 
