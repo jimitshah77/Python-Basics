@@ -17,5 +17,14 @@ print("Basic Coding: Python Programming Language")
 ![python](images/usesofpython.png)
 
 ## Table of Contents
-1)print()
+#### 1)print()
+#### 2)Assignment Operator
+
+### 1)print()
+```python
+print("Basic Coding: Python Programming Language")
+```
+#### Output:
+![python](/images/print.PNG)
+
 
