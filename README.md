@@ -14,8 +14,8 @@ print("Basic Coding: Python Programming Language")
 #### [What is Python?](https://github.com/jimitshah77/Python-Basics/blob/master/README.md#what-is-python-1)
 #### [Why Python](https://github.com/jimitshah77/Python-Basics/blob/master/README.md#why-python-1)
 ### [Basic Codes](https://github.com/jimitshah77/Python-Basics/blob/master/README.md#basic-codes-1)
-#### [1)print()]()
-#### [2)Assignment Operator]()
+#### [1)print()](https://github.com/jimitshah77/Python-Basics/blob/master/README.md#1print)
+#### [2)Assignment Operator](https://github.com/jimitshah77/Python-Basics/blob/master/README.md#2assignment-operator)
 
 ---
 
