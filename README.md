@@ -10,18 +10,14 @@ print("Basic Coding: Python Programming Language")
 #### Output:
 ![python](/images/print.PNG)
 
-### What is Python?
-![python](/python3.png)
-
-### Why Python?
-![python](images/usesofpython.png)
-
 ## Table of Contents
 #### What is Python?
 #### Why Python
 ### Basic Codes
 #### 1)print()
 #### 2)Assignment Operator
+
+---
 
 ### What is Python?
 ![python](/python3.png)
