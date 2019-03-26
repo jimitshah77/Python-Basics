@@ -21,7 +21,7 @@ print("Basic Coding: Python Programming Language")
 ---
 
 ### What is Python?
-![python](/python3.png)
+![python](images/python3.png)
 
 ### Why Python?
 ![python](images/usesofpython.png)
