@@ -15,7 +15,8 @@ print("Basic Coding: Python Programming Language")
 #### [Why Python](https://github.com/jimitshah77/Python-Basics/blob/master/README.md#why-python-1)
 ### [Basic Codes](https://github.com/jimitshah77/Python-Basics/blob/master/README.md#basic-codes-1)
 #### [1)print()](https://github.com/jimitshah77/Python-Basics/blob/master/README.md#1print-1)
-#### [2)Assignment Operator]()
+#### [2)Comments]()
+#### [3)Assignment Operator](https://github.com/jimitshah77/Python-Basics/blob/master/README.md#2assignment-operator-1)
 
 
 ---
@@ -37,7 +38,14 @@ print("Basic Coding: Python Programming Language")
 #### Output:
 ![python](/images/print.PNG)
 
-### 2)Assignment Operator
+### 2)Comments
+```python
+print("Basic Coding: Python Programming Language")
+```
+#### Output:
+![python](/images/comments.PNG)
+
+### 3)Assignment Operator
 ```python
 # We use "=" for assignment of one value to the variable
 a= 10
