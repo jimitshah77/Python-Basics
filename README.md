@@ -8,7 +8,7 @@ The reader will get well acquainted with the basic coding syntax of Python Progr
 print("Basic Coding: Python Programming Language")
 ```
 #### Output:
-![python](/images/print.png)
+![python](/images/print.PNG)
 
 ### What is Python?
 ![python](/python3.png)
