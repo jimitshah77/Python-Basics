@@ -16,7 +16,7 @@ print("Basic Coding: Python Programming Language")
 ### [Basic Codes](https://github.com/jimitshah77/Python-Basics/blob/master/README.md#basic-codes-1)
 #### [1)print()](https://github.com/jimitshah77/Python-Basics/blob/master/README.md#1print-1)
 #### [2)Comments]()
-#### [3)Assignment Operator](https://github.com/jimitshah77/Python-Basics/blob/master/README.md#2assignment-operator-1)
+#### [3)Assignment Operator](https://github.com/jimitshah77/Python-Basics/blob/master/README.md#3assignment-operator)
 
 
 ---
