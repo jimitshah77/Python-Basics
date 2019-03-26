@@ -37,4 +37,23 @@ print("Basic Coding: Python Programming Language")
 #### Output:
 ![python](/images/print.PNG)
 
+### 2)Assignment Operator
+```python
+# We use "=" for assignment of one value to the variable
+a= 10
+print("The value of a is "+str(a))
+# NOTE: We have to convert int to string for maintaining same type in print statement
+
+
+# We can also assign multiple variable at a time
+b,c=20,30
+print("The value of b & c is "+str(b)+"&"+str(c))
+
+#We can also assign value of one variable to another variable
+d=a
+print("The value of d is "+str(d))
+```
+#### Output:
+![python](/images/assignment_operator.PNG)
+
 
