@@ -16,6 +16,7 @@ print("Basic Coding: Python Programming Language")
 #### [1)print()](https://github.com/jimitshah77/Python-Basics/blob/master/README.md#1print-1)
 #### [2)Comments](https://github.com/jimitshah77/Python-Basics/blob/master/README.md#2comments-1)
 #### [3)Assignment Operator](https://github.com/jimitshah77/Python-Basics/blob/master/README.md#3assignment-operator-1)
+#### [4)Input()]()
 
 
 ---
@@ -90,4 +91,16 @@ print("The value of d is "+str(d))
 #### Output:
 ![python](/images/assignment_operator.PNG)
 
+### 4)input()
+```python
+#use input funtion to take the input from the user, pass thr information you eed as the parameter
+x=input("What is your name? ")
+print('My name is {0}'.format(x))
 
+#if you want the input to be of string tupe then simply typecast it to integer using the int()
+y=int(input("What is your age? "))
+print('My age is {0}'.format(y))
+
+```
+#### Output:
+![python](/images/input.PNG)
