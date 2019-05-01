@@ -15,7 +15,7 @@ print("Basic Coding: Python Programming Language")
 #### [Why Python](https://github.com/jimitshah77/Python-Basics/blob/master/README.md#why-python-1)
 ### [Basic Codes](https://github.com/jimitshah77/Python-Basics/blob/master/README.md#basic-codes-1)
 #### [1)print()](https://github.com/jimitshah77/Python-Basics/blob/master/README.md#1print-1)
-#### [2)Comments]()
+#### [2)Comments](https://github.com/jimitshah77/Python-Basics/blob/master/README.md#2comments-1)
 #### [3)Assignment Operator](https://github.com/jimitshah77/Python-Basics/blob/master/README.md#3assignment-operator-1)
 
 
