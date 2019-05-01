@@ -12,7 +12,6 @@ print("Basic Coding: Python Programming Language")
 
 ## Table of Contents
 #### [What is Python?](https://github.com/jimitshah77/Python-Basics/blob/master/README.md#what-is-python-1)
-#### [Why Python](https://github.com/jimitshah77/Python-Basics/blob/master/README.md#why-python-1)
 ### [Basic Codes](https://github.com/jimitshah77/Python-Basics/blob/master/README.md#basic-codes-1)
 #### [1)print()](https://github.com/jimitshah77/Python-Basics/blob/master/README.md#1print-1)
 #### [2)Comments](https://github.com/jimitshah77/Python-Basics/blob/master/README.md#2comments-1)
@@ -23,9 +22,6 @@ print("Basic Coding: Python Programming Language")
 
 ### What is Python?
 ![python](images/python3.png)
-
-### Why Python?
-![python](images/usesofpython.png)
 
 ***
 
