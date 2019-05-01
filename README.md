@@ -29,10 +29,31 @@ print("Basic Coding: Python Programming Language")
 
 ### 1)print()
 ```python
-print("Basic Coding: Python Programming Language")
+#using double quotes
+print("In double quotes")
+
+#using single quotes
+print('In single quotes')
+
+#printing a variable
+a=10.5
+print(a)
+
+#printing with formatting
+print("value of a is %f" %a)
+
+print("value of a is {}" .format(a))
+
+#printing multiple variables
+x=10
+y=20
+print('x={0} y={1}'.format(x,y))
+print('y={1} x={0}'.format(x,y))
+
+
 ```
 #### Output:
-![python](/images/print.PNG)
+![python](/images/print1.PNG)
 
 ### 2)Comments
 ```python
