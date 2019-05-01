@@ -93,7 +93,7 @@ print("The value of d is "+str(d))
 
 ### 4)input()
 ```python
-#use input funtion to take the input from the user, pass thr information you eed as the parameter
+#use input funtion to take the input from the user, pass the information you need as the parameter
 x=input("What is your name? ")
 print('My name is {0}'.format(x))
 
