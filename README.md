@@ -40,7 +40,16 @@ print("Basic Coding: Python Programming Language")
 
 ### 2)Comments
 ```python
-print("Basic Coding: Python Programming Language")
+# We use "#" for single line comment
+
+'''
+We can write multiline comment using three qoutes(')
+The code within the comment must not be executed
+print("For example, this line of code will not be executed")
+'''
+
+print("And this line of code will be executed")
+
 ```
 #### Output:
 ![python](/images/comments.PNG)
